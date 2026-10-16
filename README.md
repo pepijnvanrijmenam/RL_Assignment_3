@@ -1,5 +1,5 @@
 # RL_Assignment_3
-group 10
+Group 10
 
 RL VU Amsterdam (XB_0118) 16.10.2026
 
